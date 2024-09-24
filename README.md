@@ -6,6 +6,8 @@ The goal of this project was to create a logistic regression, a random forest, a
 
 ## Business Understanding
 
+TikTok users have the ability to submit reports that identify videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. The process generates a large number of user reports that are challenging to consider in a timely manner. By developing a predictive model that can determine whether a video contains a claim or offers an opinion, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
+
 ## Data Understanding
 
 ## Modeling and Evaluation
