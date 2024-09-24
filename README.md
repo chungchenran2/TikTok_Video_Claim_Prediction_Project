@@ -14,5 +14,7 @@ The dataset used in this project contains synthetic data created for this projec
 
 ## Modeling and Evaluation
 
+A random forest model comprising 200 decision trees was used to determine feature importance in whether a TikTok video contains a claim or an opinion. The below plot shows that a video's view count, like count, share count, and download count were the Top 4 most important factors in determining if a video contains a claim or an opinion. The overall model performed with 99.7% accuracy, 99.7% precision, and 99.7% recall.
+
 ## Conclusion
 
