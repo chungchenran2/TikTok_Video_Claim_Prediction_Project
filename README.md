@@ -10,6 +10,8 @@ TikTok users have the ability to submit reports that identify videos and comment
 
 ## Data Understanding
 
+The dataset used in this project contains synthetic data created for this project in partnership with TikTok. The data consisted of around 19k published TikTok videos in which a claim/opinion has been made. The features included information on a video, such as its id, the duration, the author's ban status, and so on. A new feature, called text_length, was engineered out of the length of a video's transcription text to be used as a potential feature in the model.
+
 ## Modeling and Evaluation
 
 ## Conclusion
