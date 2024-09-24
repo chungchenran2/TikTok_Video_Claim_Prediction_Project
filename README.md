@@ -1,1 +1,12 @@
-# TikTok_Video_Claim_Prediction_Project
+# TikTok Video Claim Prediction Project
+
+## Overview
+
+## Business Understanding
+
+## Data Understanding
+
+## Modeling and Evaluation
+
+## Conclusion
+
